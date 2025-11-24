@@ -42,44 +42,44 @@ Start your VirtualBox VM and boot from the Windows 11 ISO. This launches the Wi
 ### Step 2 – Choose language, time & currency
 On the **Select language settings** screen, pick English (United States) for both language and time/currency format, then click **Next**.
 
-![Language & currency settings](Screenshot%202025-11-08%20224621.png)
+![Language and currency settings](screenshots/language-settings.png)
 
 ### Step 3 – Select keyboard layout
 Choose the US keyboard layout (or your preferred input method) and click **Next**.
 
-![Keyboard selection](Screenshot%202025-11-08%20224718.png)
+![Keyboard selection](screenshots/keyboard-settings.png)
 
 ### Step 4 – Choose the setup option
 On the setup option screen, select **Install Windows 11** (instead of *Repair my PC*) and tick the checkbox confirming that existing files will be deleted.
 
-![Setup option selection](Screenshot%202025-11-08%20224911.png)
+![Setup option selection](screenshots/setup-option.png)
 
 ### Step 5 – Enter a product key or skip
 If prompted for a product key, enter it or click **I don’t have a product key** to continue.
 
-![Product key entry](Screenshot%202025-11-08%20224926.png)
+![Product key entry](screenshots/product-key.png)
 
 ### Step 6 – Select the edition
 From the list of Windows 11 editions, choose **Windows 11 Pro** (or your preferred edition) and click **Next**.
 
-![Select edition](Screenshot%202025-11-08%20225005.png)
+![Select edition](screenshots/select‑edition.png)
 
 ### Step 7 – Choose where to install
 Select the unallocated virtual disk (e.g., 60 GB), create a partition if necessary, and click **Next**.
 
-![Partition selection](Screenshot%202025-11-08%20225142.png)
+![Partition selection](screenshots/partition‑selection.png)
 
 ### Step 8 – Confirm and begin installation
 On the **Ready to install** summary screen, review your selections (e.g., *Install Windows 11 Pro*, *Keep nothing*). When ready, click **Install** to begin.
 
-![Ready to install](Screenshot%202025-11-08%20225222.png)
+![Ready to install](screenshots/ready‑to‑install.png)
 
 ### Step 9 – Monitor progress and finish
 The installer will copy files and reboot several times. Wait for installation to complete. You’ll see a progress screen (around 7 % in this example) and eventually the Windows 11 lock screen.
 
-![Installation progress](Screenshot%202025-11-08%20225239.png)
+![Installation progress](screenshots/installation‑progress.png)  
 
-![First boot after installation](Screenshot%202025-11-09%20112533.png)
+![First boot after installation](screenshots/vm‑startup.png)
 
 
 
