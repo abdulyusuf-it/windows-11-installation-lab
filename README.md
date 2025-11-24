@@ -73,33 +73,3 @@ See the `screenshots/` folder for step‑by‑step images, including:
 
 #### VirtualBox VM Startup
 ![VirtualBox VM Startup](Screenshot%202025-11-09%20112533.png)
-
-
-### Embedded Images
-
-#### Language & Currency Settings
-![Language & Currency Settings](Screenshot%202025-11-08%20224621.png)
-
-#### Keyboard Selection
-![Keyboard Selection](Screenshot%202025-11-08%20224718.png)
-
-#### Setup Option Selection
-![Setup Option Selection](Screenshot%202025-11-08%20224911.png)
-
-#### Product Key Entry
-![Product Key Entry](Screenshot%202025-11-08%20224926.png)
-
-#### Select Image (OS Edition)
-![Select Image (OS Edition)](Screenshot%202025-11-08%20225005.png)
-
-#### Partition Selection
-![Partition Selection](Screenshot%202025-11-08%20225142.png)
-
-#### Ready to Install Summary
-![Ready to Install Summary](Screenshot%202025-11-08%20225222.png)
-
-#### Installation Progress
-![Installation Progress](Screenshot%202025-11-08%20225239.png)
-
-#### VirtualBox VM Startup
-![VirtualBox VM Startup](Screenshot%202025-11-09%20112533.png)
