@@ -62,24 +62,23 @@ If prompted for a product key, enter it or click **I don’t have a product key*
 ### Step 6 – Select the edition
 From the list of Windows 11 editions, choose **Windows 11 Pro** (or your preferred edition) and click **Next**.
 
-![Select edition](screenshots/select‑edition.png)
+![Select edition](screenshots/select-edition.png)
 
 ### Step 7 – Choose where to install
 Select the unallocated virtual disk (e.g., 60 GB), create a partition if necessary, and click **Next**.
 
-![Partition selection](screenshots/partition‑selection.png)
+![Partition selection](screenshots/partition-selection.png)
 
 ### Step 8 – Confirm and begin installation
 On the **Ready to install** summary screen, review your selections (e.g., *Install Windows 11 Pro*, *Keep nothing*). When ready, click **Install** to begin.
 
-![Ready to install](screenshots/ready‑to‑install.png)
+![Ready to install summary](screenshots/ready-to-install.png)
 
 ### Step 9 – Monitor progress and finish
 The installer will copy files and reboot several times. Wait for installation to complete. You’ll see a progress screen (around 7 % in this example) and eventually the Windows 11 lock screen.
 
-![Installation progress](screenshots/installation‑progress.png)  
-
-![First boot after installation](screenshots/vm‑startup.png)
+![Installation progress](screenshots/installation-progress.png)  
+![VM startup after installation](screenshots/vm-startup.png)
 
 
 
