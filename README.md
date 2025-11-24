@@ -34,54 +34,52 @@ This project documents my hands-on lab installing **Windows 11 Pro** inside **Or
 - How to follow an OS installer from language selection through to installation progress.
 
 ## Configuration Steps
-
 Follow these steps to install Windows 11 Pro in Oracle VirtualBox:
 
-1. Start the VM and boot from the Windows 11 ISO.
-2. Choose your language, time and currency format, and click Next.
-3. Select your keyboard or input method, then click Next.
-4. On the setup option screen, select **Install Windows 11** and agree that everything will be deleted.
-5. If prompted for a product key, enter one or click **I don't have a product key** to continue.
-6. Choose the edition of Windows 11 you want to install (e.g., Windows 11 Pro) and click Next.
-7. Select the unallocated virtual disk space and click to create or select a partition, then click Next.
-8. Confirm your choices on the Ready to install screen and click Install to begin the installation.
-Screenshots
+### Step 1 – Boot from the Windows 11 ISO
+Start your VirtualBox VM and boot from the Windows 11 ISO. This launches the Windows Setup wizard.
 
-See the `screenshots/` folder for step‑by‑step images, including:
+### Step 2 – Choose language, time & currency
+On the **Select language settings** screen, pick English (United States) for both language and time/currency format, then click **Next**.
 
-- **language-settings.png** – choosing English (US) for language and currency  
-- **keyboard-settings.png** – selecting the US keyboard layout  
-- **setup-options.png** – choosing _Install Windows 11_ versus _Repair my PC_  
-- **product-key.png** – product key entry screen (can skip by selecting “I don’t have a product key”)  
-- **select-image.png** – selecting _Windows 11 Pro_ from the list of editions  
-- **partition-select.png** – choosing the unallocated 60 GB disk and creating a partition  
-- **ready-to-install.png** – final summary screen showing selected options  
-- **installation-progress.png** – installation running at ~7 % (VirtualBox window)
+![Language & currency settings](Screenshot%202025-11-08%20224621.png)
 
-- ### Embedded Screenshots
+### Step 3 – Select keyboard layout
+Choose the US keyboard layout (or your preferred input method) and click **Next**.
 
-#### Language & Currency Settings!![Language & Currency Settings](Screenshot%202025-11-08%20224621.png)
+![Keyboard selection](Screenshot%202025-11-08%20224718.png)
 
-#### Keyboard Selection
-![Language & Currency Settings](Screenshot%202025-11-08%20224621.png)
+### Step 4 – Choose the setup option
+On the setup option screen, select **Install Windows 11** (instead of *Repair my PC*) and tick the checkbox confirming that existing files will be deleted.
 
-#### Setup Option Selection
-![Setup Option Selection](Screenshot%202025-11-08%20224911.png)
+![Setup option selection](Screenshot%202025-11-08%20224911.png)
 
-#### Product Key Entry
-![Product Key Entry](Screenshot%202025-11-08%20224926.png)
+### Step 5 – Enter a product key or skip
+If prompted for a product key, enter it or click **I don’t have a product key** to continue.
 
-#### Select Image (OS Edition)
-![Select Image](Screenshot%202025-11-08%20225005.png)
+![Product key entry](Screenshot%202025-11-08%20224926.png)
 
-#### Partition Selection
-![Partition Selection](Screenshot%202025-11-08%20225142.png)
+### Step 6 – Select the edition
+From the list of Windows 11 editions, choose **Windows 11 Pro** (or your preferred edition) and click **Next**.
 
-#### Ready to Install Summary
-![Ready to Install](Screenshot%202025-11-08%20225222.png)
+![Select edition](Screenshot%202025-11-08%20225005.png)
 
-#### Installation Progress
-![Installation Progress](Screenshot%202025-11-08%20225239.png)
+### Step 7 – Choose where to install
+Select the unallocated virtual disk (e.g., 60 GB), create a partition if necessary, and click **Next**.
 
-#### VirtualBox VM Startup
-![VirtualBox VM Startup](Screenshot%202025-11-09%20112533.png)
+![Partition selection](Screenshot%202025-11-08%20225142.png)
+
+### Step 8 – Confirm and begin installation
+On the **Ready to install** summary screen, review your selections (e.g., *Install Windows 11 Pro*, *Keep nothing*). When ready, click **Install** to begin.
+
+![Ready to install](Screenshot%202025-11-08%20225222.png)
+
+### Step 9 – Monitor progress and finish
+The installer will copy files and reboot several times. Wait for installation to complete. You’ll see a progress screen (around 7 % in this example) and eventually the Windows 11 lock screen.
+
+![Installation progress](Screenshot%202025-11-08%20225239.png)
+
+![First boot after installation](Screenshot%202025-11-09%20112533.png)
+
+
+
