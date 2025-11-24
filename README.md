@@ -44,4 +44,62 @@ See the `screenshots/` folder for step‑by‑step images, including:
 - **select-image.png** – selecting _Windows 11 Pro_ from the list of editions  
 - **partition-select.png** – choosing the unallocated 60 GB disk and creating a partition  
 - **ready-to-install.png** – final summary screen showing selected options  
-- **installation-progress.png** – installation running at ~7 % (VirtualBox window)  
+- **installation-progress.png** – installation running at ~7 % (VirtualBox window)
+
+- ### Embedded Screenshots
+
+#### Language & Currency Settings!![Language & Currency Settings](Screenshot%202025-11-08%20224621.png)
+
+#### Keyboard Selection
+![Language & Currency Settings](Screenshot%202025-11-08%20224621.png)
+
+#### Setup Option Selection
+![Setup Option Selection](Screenshot%202025-11-08%20224911.png)
+
+#### Product Key Entry
+![Product Key Entry](Screenshot%202025-11-08%20224926.png)
+
+#### Select Image (OS Edition)
+![Select Image](Screenshot%202025-11-08%20225005.png)
+
+#### Partition Selection
+![Partition Selection](Screenshot%202025-11-08%20225142.png)
+
+#### Ready to Install Summary
+![Ready to Install](Screenshot%202025-11-08%20225222.png)
+
+#### Installation Progress
+![Installation Progress](Screenshot%202025-11-08%20225239.png)
+
+#### VirtualBox VM Startup
+![VirtualBox VM Startup](Screenshot%202025-11-09%20112533.png)
+
+
+### Embedded Images
+
+#### Language & Currency Settings
+![Language & Currency Settings](Screenshot%202025-11-08%20224621.png)
+
+#### Keyboard Selection
+![Keyboard Selection](Screenshot%202025-11-08%20224718.png)
+
+#### Setup Option Selection
+![Setup Option Selection](Screenshot%202025-11-08%20224911.png)
+
+#### Product Key Entry
+![Product Key Entry](Screenshot%202025-11-08%20224926.png)
+
+#### Select Image (OS Edition)
+![Select Image (OS Edition)](Screenshot%202025-11-08%20225005.png)
+
+#### Partition Selection
+![Partition Selection](Screenshot%202025-11-08%20225142.png)
+
+#### Ready to Install Summary
+![Ready to Install Summary](Screenshot%202025-11-08%20225222.png)
+
+#### Installation Progress
+![Installation Progress](Screenshot%202025-11-08%20225239.png)
+
+#### VirtualBox VM Startup
+![VirtualBox VM Startup](Screenshot%202025-11-09%20112533.png)
