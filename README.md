@@ -78,6 +78,7 @@ On the **Ready to install** summary screen, review your selections (e.g., *Insta
 The installer will copy files and reboot several times. Wait for installation to complete. You’ll see a progress screen (around 7 % in this example) and eventually the Windows 11 lock screen.
 
 ![Installation progress](screenshots/installation-progress.png)  
+
 ![VM startup after installation](screenshots/vm-startup.png)
 
 
