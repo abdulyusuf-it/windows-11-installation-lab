@@ -33,7 +33,19 @@ This project documents my hands-on lab installing **Windows 11 Pro** inside **Or
 - That VirtualBox requires special key combinations (e.g. sending Ctrl‑Alt‑Del) to interact with the VM.
 - How to follow an OS installer from language selection through to installation progress.
 
-## Screenshots
+## Configuration Steps
+
+Follow these steps to install Windows 11 Pro in Oracle VirtualBox:
+
+1. Start the VM and boot from the Windows 11 ISO.
+2. Choose your language, time and currency format, and click Next.
+3. Select your keyboard or input method, then click Next.
+4. On the setup option screen, select **Install Windows 11** and agree that everything will be deleted.
+5. If prompted for a product key, enter one or click **I don't have a product key** to continue.
+6. Choose the edition of Windows 11 you want to install (e.g., Windows 11 Pro) and click Next.
+7. Select the unallocated virtual disk space and click to create or select a partition, then click Next.
+8. Confirm your choices on the Ready to install screen and click Install to begin the installation.
+Screenshots
 
 See the `screenshots/` folder for step‑by‑step images, including:
 
